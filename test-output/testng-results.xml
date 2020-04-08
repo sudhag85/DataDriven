@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-23T00:48:58 SGT" name="Default suite" finished-at="2020-03-23T00:49:18 SGT" duration-ms="19402">
+    <groups>
+    </groups>
+    <test started-at="2020-03-23T00:48:58 SGT" name="Default test" finished-at="2020-03-23T00:49:18 SGT" duration-ms="19402">
+      <class name="apachePOIOperations.sample">
+        <test-method is-config="true" signature="executeTest()[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:48:58 SGT" name="executeTest" finished-at="2020-03-23T00:49:13 SGT" duration-ms="14774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method signature="login(java.lang.Object, java.lang.Object)[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:49:15 SGT" name="login" data-provider="login" finished-at="2020-03-23T00:49:16 SGT" duration-ms="1399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apachePOIOperations.InputTest@47dd778]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[64000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.Object, java.lang.Object)[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:49:16 SGT" name="login" data-provider="login" finished-at="2020-03-23T00:49:17 SGT" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apachePOIOperations.InputTest@272a179c]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[124000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.Object, java.lang.Object)[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:49:17 SGT" name="login" data-provider="login" finished-at="2020-03-23T00:49:17 SGT" duration-ms="497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apachePOIOperations.InputTest@7a18e8d]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[236000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.Object, java.lang.Object)[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:49:17 SGT" name="login" data-provider="login" finished-at="2020-03-23T00:49:18 SGT" duration-ms="533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apachePOIOperations.InputTest@782168b7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[330000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apachePOIOperations.sample@2f112965]" started-at="2020-03-23T00:49:18 SGT" name="tearDown" finished-at="2020-03-23T00:49:18 SGT" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- apachePOIOperations.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
